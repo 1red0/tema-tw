@@ -42,6 +42,8 @@ Pentru a rula proiectul trebuie sa deschidem fisierul index.html din interiorul 
 
 ## Structura proiectului
 
+```text
+
 README.md
 Proiect
 ├── css
@@ -52,3 +54,5 @@ Proiect
 | └── script.js
 |
 └── index.html
+
+```
